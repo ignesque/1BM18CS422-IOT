@@ -2,5 +2,5 @@ nltk==3.4.5
 numpy==1.17.4
 pyttsx3==2.71
 requests==2.22.0  
-tensorflow==1.15.0  
+tensorflow==1.15.4 
 tflearn==0.3.2   
